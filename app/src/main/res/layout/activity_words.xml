@@ -22,4 +22,4 @@
     android:background="@color/tan_background"
     android:drawSelectorOnTop="true"
 
-    tools:context="com.example.android.miwok.NumbersActivity"/>
+    />
